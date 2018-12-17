@@ -1,5 +1,5 @@
 # gatsby
-some demos
+some demos fot git operations
 
 i have deleted the line 2
 and i have deleted the line 3 too;
