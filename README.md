@@ -10,3 +10,5 @@ i editted this file from the web client;
 i want to see how it shows in the command lines
 
 now , i wrote this line in the local editor,and i will push it to the remote end
+
+this is a try , try for nothing
