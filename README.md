@@ -1,3 +1,7 @@
 # gatsby
 some demos
-creating a new branch is quick
+
+i have deleted the line 2
+and i wrote some words a few minutes ago;
+
+
