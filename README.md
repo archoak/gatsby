@@ -8,3 +8,5 @@ i wrote this line to be the line 4
 
 i editted this file from the web client;
 i want to see how it shows in the command lines
+
+now , i wrote this line in the local editor,and i will push it to the remote end
